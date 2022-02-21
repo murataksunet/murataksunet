@@ -13,7 +13,7 @@ Konuları sıkmadan , laf kalabalığı yapmadan açık ve net bir şekilde akta
 Maksimum faydayı almanız temennisiyle...
 
 💼 any freelance work? do reach, email :)
-💬 ask me about anything, i am happy to help;
+💬 ask me about anything, i am happy to help
 
 
 <!--
