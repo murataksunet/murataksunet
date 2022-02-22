@@ -14,7 +14,7 @@
 
 ![This is an image](http://www.murataksu.net/wp-content/pictures/Information-6.png)  </p> ⭐ [A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)-->İndirim Kuponu](https://www.udemy.com/course/tum-yonleriyle-sanallastirma/?referralCode=117CD3706450AC733546)
 
-<img align="center " width="100" height="100" src="https://www.udemy.com/course/tum-yonleriyle-sanallastirma/?referralCode=117CD3706450AC733546">sadasdadada
+<img align="center" src="https://www.udemy.com/course/tum-yonleriyle-sanallastirma/?referralCode=117CD3706450AC733546">sadasdadada
 
 - 📣**Yolda Olan Eğitimlerim:**      
 
