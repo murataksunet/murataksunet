@@ -9,8 +9,11 @@
         
         
         A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
+        
+        A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
+        
+        A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
 
-Create Online Training
 
 
 **Maksimum faydayı almanız temennisiyle**
