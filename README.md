@@ -1,4 +1,4 @@
-## 👋👋 Heyy merhaba ben Murat Aksu sayfama hoşgeldin ☕
+## 👋👋 Heyy Merhaba Sayfama Hoşgeldin ☕ Ben Murat Aksu ....
 
 Amacım iş hayatımda, sahada öğrendiğim Cloud Computing ve Data Center platform çözümlerini meraklısına aktarmak.
 
