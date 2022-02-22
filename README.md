@@ -22,8 +22,8 @@
 
 **Maksimum faydayı almanız temennisiyle**
 
-💼 any freelance work? do reach, email :)
-💬 ask me about anything, i am happy to help
+💼 any freelance work? email me :)<p>
+💬 Do you have any question ? ask me<p>
 
 
 <!--
