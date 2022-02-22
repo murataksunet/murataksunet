@@ -7,7 +7,7 @@
 - 🎯**İlgi Alanım:** ├─◈ Big Data ├─◈ Storage Systems ├─◈ Virtualization ├─◈ Kubernernetes ├─◈ Docker ├─◈ IT Trainer
 - 📣**Eğitimlerim:**               
                   
-        ⌘ Docker: Sıfırdan Tüm Yönleriyle Öğrenin - [Eğitim İndirim Kuponu-](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
+        ⌘ [Docker: Sıfırdan Tüm Yönleriyle Öğrenin](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
 
 ![This is an image](http://www.murataksu.net/wp-content/uploads/2020/12/Information-6.png)
 
