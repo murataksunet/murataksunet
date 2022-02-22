@@ -12,21 +12,18 @@
 
         ⌘ A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
 
-![This is an image](http://www.murataksu.net/wp-content/pictures/Information-6.png)
+![This is an image](http://www.murataksu.net/wp-content/pictures/Information-6.png)  </p> ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
 
 
 - 📣**Yolda Olan Eğitimlerim:**      
 
         ⌘ Kubernetes: Sıfırdan Başlayarak Uygulamalı Öğrenin (Yolda)
 
-
-[I'm an inline-style link](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
-
 **Maksimum faydayı almanız temennisiyle**
 
 💼 any freelance work? do reach, email :)
 💬 ask me about anything, i am happy to help
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+
 
 <!--
 **murataksunet/murataksunet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
