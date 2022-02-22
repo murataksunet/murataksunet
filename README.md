@@ -9,7 +9,7 @@
         
         ⌘ Kubernetes: Sıfırdan Başlayarak Uygulamalı Öğrenin (Yolda)
 
-![This is an image]
+
                 
         ⌘ Docker: Sıfırdan Tüm Yönleriyle Öğrenin
 
