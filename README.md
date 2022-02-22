@@ -1,10 +1,17 @@
 #### Heyy Merhaba 👋👋 Sayfama Hoşgeldin ☕ Ben Murat Aksu ....
 
 - ⚡ **Ünvanım:** Sistem/Storage Uzmanı
-- 👨‍💻 **Tecrübem Nedir:**  2005 yılından beri bilişim sektörü içerisinde, sahada görev almaktayım. Bir çok projede dizayn / kurulum / yapılandırma / yönetim / geliştirme / problem çözme aşamalarında yer aldım
+- 👨‍💻 **Tecrübem:**  2005 yılından beri bilişim sektörü içerisinde, sahada görev almaktayım. Bir çok projede dizayn / kurulum / yapılandırma / yönetim / geliştirme / problem çözme aşamalarında yer aldım
 - 💡**Neyi Amaçlıyorum:** İş hayatımda, sahada öğrendiğim Veri Mühendisliği çözümlerini meraklısına aktarmak
-- 💡**Hedefim:** Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik bilgi ve tecrübe paylaşımı yaparak ihtiyaca destek vermek
-- **Fokus Olduklarım:** 
+- 💡**Hedefim:** Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik bilgi ve tecrübe paylaşımı yaparak ihtiyaca destek vermek 
+┌──┤ **Fokus Olduklarım* ├───────▰▰▰
+│
+├─▣ Security Researcher
+├─▣ Content Creator
+├─▣ thewhiteh4t's Blog
+├─▣ I am mostly available at The White Circle
+│
+└───────────────────────────────▰▰▰
 
 
 
