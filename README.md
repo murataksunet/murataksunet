@@ -21,7 +21,7 @@
         ⌘ Kubernetes: Sıfırdan Başlayarak Uygulamalı Öğrenin (Yolda)
 
 
-
+[I'm an inline-style link](https://www.google.com)
 
 **Maksimum faydayı almanız temennisiyle**
 
