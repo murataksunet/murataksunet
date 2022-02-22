@@ -1,7 +1,8 @@
 #### Heyy Merhaba 👋👋 Sayfama Hoşgeldin ☕ Ben Murat Aksu ....
 
-- ⚡ **Ünvan** Sistem/Storage Uzmanı
-- 👨‍💻 **Tecrübe**  2005 yılından beri bilişim sektörü içerisinde sahada görev almaktayım. Üniversite eğitimimden sonra sistem ve network alanında ki kurs ve sertifika  programlarını tamamladım. Özel bir kurumda Bilgisayar Eğitmeni olarak görev aldım. Sistem destek görevinden sonra Pre-Sales olarak Proje Sorumlusu ve Teknik Uzman olarak birçok projeyi yönettim ve kurulumları gerçekleştirdim.  Bir çok projede sistem dizayn / kurulum / yapılandırma / yönetim / geliştirme / destek /  problem çözme aşamalarında yer aldım. İşletme aşamasında takım lideri olarak görev aldım ve seminerler verdim.
+- ⚡ **Ünvan:** Sistem/Storage Uzmanı
+- 👨‍💻 **Tecrübe:**  2005 yılından beri bilişim sektörü içerisinde sahada görev almaktayım. Bir çok projede sistem dizayn / kurulum / yapılandırma / yönetim / geliştirme / problem çözme aşamalarında yer aldım
+- 💡**Amac:**
 
 
 
