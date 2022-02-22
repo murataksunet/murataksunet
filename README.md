@@ -10,6 +10,11 @@
         ⌘  A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
 
 
+        ⌘  A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
+
+
+
+
 **Maksimum faydayı almanız temennisiyle**
 
 💼 any freelance work? do reach, email :)
