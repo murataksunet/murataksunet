@@ -4,16 +4,10 @@
 - 👨‍💻 **Tecrübem:**  2005 yılından beri bilişim sektörü içerisinde, sahada görev almaktayım. Bir çok projede dizayn / kurulum / yapılandırma / yönetim / geliştirme / problem çözme aşamalarında yer aldım
 - 💡**Neyi Amaçlıyorum:** İş hayatımda, sahada öğrendiğim Veri Mühendisliği çözümlerini meraklısına aktarmak
 - 💡**Hedefim:** Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik bilgi ve tecrübe paylaşımı yaparak ihtiyaca destek vermek 
-┌──┤ SOCIAL ├─────────▰▰▰
-│
 ├─◈ Twitter
 ├─◈ YouTube
 ├─◈ Telegram
 ├─◈ LinkedIn
-│
-└───────────────────────────────▰▰▰
-
-
 
 
 Konuları sıkmadan , laf kalabalığı yapmadan açık ve net bir şekilde aktarma prensibine sahibim.  Özellikle çok sayıda uygulama ile konuyu kalıcı hale getirmeye çalışmaktayım. Umarım sizde eğitimimden  maksimum faydayı alarak kariyerinizde dilediğiniz noktaya ulaşanlar arasına girersiniz.
