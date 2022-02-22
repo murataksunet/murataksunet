@@ -10,7 +10,7 @@ Teknolojinin sürekli gelişmesi ve yeni teknolojilerin çıkmasıyla birlikte i
 
 Konuları sıkmadan , laf kalabalığı yapmadan açık ve net bir şekilde aktarma prensibine sahibim.  Özellikle çok sayıda uygulama ile konuyu kalıcı hale getirmeye çalışmaktayım. Umarım sizde eğitimimden  maksimum faydayı alarak kariyerinizde dilediğiniz noktaya ulaşanlar arasına girersiniz.
 
-**Maksimum faydayı almanız temennisiyle... 
+**Maksimum faydayı almanız temennisiyle**
 
 💼 any freelance work? do reach, email :)
 💬 ask me about anything, i am happy to help
