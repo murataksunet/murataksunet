@@ -7,11 +7,10 @@
 - 🎯**İlgi Alanım:** ├─◈ Big Data ├─◈ Storage Systems ├─◈ Virtualization ├─◈ Kubernernetes ├─◈ Docker ├─◈ IT Trainer
 - 📣**Eğitimlerim:**
                
-        A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
+        📌 A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
         
-	📌 :pushpin:
 
-        A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
+        📌 A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
 
 
 **Maksimum faydayı almanız temennisiyle**
