@@ -1,14 +1,9 @@
 #### Heyy Merhaba 👋👋 Sayfama Hoşgeldin ☕ Ben Murat Aksu ....
 
 - ⚡ **Ünvan:** Sistem/Storage Uzmanı
-- 👨‍💻 **Tecrübe:**  2005 yılından beri bilişim sektörü içerisinde sahada görev almaktayım. Bir çok projede sistem dizayn / kurulum / yapılandırma / yönetim / geliştirme / problem çözme aşamalarında yer aldım
-- 💡**Amac:**
-
-
-
-- Amacım iş hayatımda, sahada öğrendiğim Cloud Computing ve Data Center platform çözümlerini meraklısına aktarmak.
-
-Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik bilgi ve tecrübe paylaşımı yaparak ihtiyaca destek verme arzusundayım.
+- 👨‍💻 **Tecrübe:**  2005 yılından beri bilişim sektörü içerisinde, sahada görev almaktayım. Bir çok projede dizayn / kurulum / yapılandırma / yönetim / geliştirme / problem çözme aşamalarında yer aldım
+- 💡**Amac:** İş hayatımda, sahada öğrendiğim Veri Mühendisliği çözümlerini meraklısına aktarmak
+- 💡**Hedef** Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik bilgi ve tecrübe paylaşımı yaparak ihtiyaca destek vermek
 
 
 
