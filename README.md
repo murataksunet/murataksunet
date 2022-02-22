@@ -15,6 +15,14 @@
 
 ![This is an image](http://www.murataksu.net/wp-content/pictures/Information-6.png)
 
+
+- 📣**Yolda Olan Eğitimlerim:**      
+
+        ⌘ Kubernetes: Sıfırdan Başlayarak Uygulamalı Öğrenin (Yolda)
+
+
+
+
 **Maksimum faydayı almanız temennisiyle**
 
 💼 any freelance work? do reach, email :)
