@@ -13,7 +13,7 @@
         ⌘ >A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](http://www.murataksu.net/wp-content/uploads/2020/12/Information-6.png)
 
 **Maksimum faydayı almanız temennisiyle**
 
