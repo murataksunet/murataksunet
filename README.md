@@ -5,6 +5,10 @@
 - 🎉**Neyi Amaçlıyorum:** İş hayatımda, sahada öğrendiğim Veri Mühendisliği çözümlerini meraklısına aktarmak
 - 🔔**Hedefim:** Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik tecrübe paylaşımı yaparak ihtiyaca destek vermek 
 - 🎯**İlgi Alanım:** ├─◈ Big Data ├─◈ Storage Systems ├─◈ Virtualization ├─◈ Kubernernetes ├─◈ Docker ├─◈ IT Trainer
+- 📣**Eğitimlerim:**
+* A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
+
+Create Online Training
 
 
 **Maksimum faydayı almanız temennisiyle**
