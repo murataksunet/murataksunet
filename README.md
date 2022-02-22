@@ -5,7 +5,7 @@
 - 🎉**Neyi Amaçlıyorum:** İş hayatımda, sahada öğrendiğim Veri Mühendisliği çözümlerini meraklısına aktarmak
 - 🔔**Hedefim:** Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik tecrübe paylaşımı yaparak ihtiyaca destek vermek 
 - 🎯**İlgi Alanım:** ├─◈ Storage Systems ├─◈ Cloud computing ├─◈ Virtualization ├─◈ Kubernernetes├─◈ Docker├─◈ IT Trainer
-- 💊**Eğlenceli Gerçek:** Başlangıçta görülmeyen öngörülebilir mantıklı bir model çıkarsanda sonunda yoksun
+- 💊**Eğlenceli Gerçek:** Başlangıçta görülmeyen, öngörülebilir, mantıklı bir model çıkarsanda sonunda yoksun
 - 😉**Benimle Konuş:** 💻Yeni Teknolojiler 🌍Keşfedilecek Yerler  📸Amatör Fotoğrafçılık  🎥Aksiyon Filmleri
 - 📣**Eğitimlerim:**               
                   
