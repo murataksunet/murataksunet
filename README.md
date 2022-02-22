@@ -23,7 +23,7 @@
 **Maksimum faydayı almanız temennisiyle**
 
 💼 any freelance work? email me :)<p>
-💬 Do you have any question ? ask me<p>
+💬 Do you have any question ? l will be glad to answer it <p>
 
 
 <!--
