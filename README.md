@@ -1,6 +1,8 @@
 #### Heyy Merhaba 👋👋 Sayfama Hoşgeldin ☕ Ben Murat Aksu ....
 
-Amacım iş hayatımda, sahada öğrendiğim Cloud Computing ve Data Center platform çözümlerini meraklısına aktarmak.
+- ⚡ Ünvan: Sistem/Storage Uzmanı. 
+
+- Amacım iş hayatımda, sahada öğrendiğim Cloud Computing ve Data Center platform çözümlerini meraklısına aktarmak.
 
 Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik bilgi ve tecrübe paylaşımı yaparak ihtiyaca destek verme arzusundayım.
 
