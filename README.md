@@ -12,9 +12,7 @@
 
         ⌘ A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
 
-![This is an image](http://www.murataksu.net/wp-content/pictures/Information-6.png)  </p> ⭐ [A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)-->İndirim Kuponu](https://www.udemy.com/course/tum-yonleriyle-sanallastirma/?referralCode=117CD3706450AC733546)
-
-<img align="center" src="https://www.udemy.com/course/tum-yonleriyle-sanallastirma/?referralCode=117CD3706450AC733546">sadasdadada
+![This is an image](http://www.murataksu.net/wp-content/pictures/Information-6.png)  <p align="center"> ⭐ [A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)-->İndirim Kuponu](https://www.udemy.com/course/tum-yonleriyle-sanallastirma/?referralCode=117CD3706450AC733546)
 
 - 📣**Yolda Olan Eğitimlerim:**      
 
