@@ -6,11 +6,7 @@
 - 🔔**Hedefim:** Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik tecrübe paylaşımı yaparak ihtiyaca destek vermek 
 - 🎯**İlgi Alanım:** ├─◈ Big Data ├─◈ Storage Systems ├─◈ Virtualization ├─◈ Kubernernetes ├─◈ Docker ├─◈ IT Trainer
 - 📣**Eğitimlerim:**               
-        
-        ⌘ Kubernetes: Sıfırdan Başlayarak Uygulamalı Öğrenin (Yolda)
-
-
-                
+                  
         ⌘ Docker: Sıfırdan Tüm Yönleriyle Öğrenin
 
 ![This is an image](http://www.murataksu.net/wp-content/uploads/2020/12/Information-6.png)
