@@ -21,7 +21,7 @@
         ⌘ Kubernetes: Sıfırdan Başlayarak Uygulamalı Öğrenin (Yolda)
 
 
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
 
 **Maksimum faydayı almanız temennisiyle**
 
