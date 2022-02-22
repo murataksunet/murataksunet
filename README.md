@@ -1,13 +1,13 @@
 #### Heyy Merhaba 👋👋 Sayfama Hoşgeldin ☕ Ben Murat Aksu ....
 
-- ⚡ **Ünvan:** Sistem/Storage Uzmanı
-- 👨‍💻 **Tecrübe:**  2005 yılından beri bilişim sektörü içerisinde, sahada görev almaktayım. Bir çok projede dizayn / kurulum / yapılandırma / yönetim / geliştirme / problem çözme aşamalarında yer aldım
-- 💡**Amac:** İş hayatımda, sahada öğrendiğim Veri Mühendisliği çözümlerini meraklısına aktarmak
-- 💡**Hedef** Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik bilgi ve tecrübe paylaşımı yaparak ihtiyaca destek vermek
+- ⚡ **Ünvanım:** Sistem/Storage Uzmanı
+- 👨‍💻 **Tecrübem Nedir:**  2005 yılından beri bilişim sektörü içerisinde, sahada görev almaktayım. Bir çok projede dizayn / kurulum / yapılandırma / yönetim / geliştirme / problem çözme aşamalarında yer aldım
+- 💡**Neyi Amaçlıyorum:** İş hayatımda, sahada öğrendiğim Veri Mühendisliği çözümlerini meraklısına aktarmak
+- 💡**Hedefim:** Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik bilgi ve tecrübe paylaşımı yaparak ihtiyaca destek vermek
+- **Fokus Olduklarım:** 
 
 
 
-Teknolojinin sürekli gelişmesi ve yeni teknolojilerin çıkmasıyla birlikte iyi donanımlı BT uzmanlarına ihtiyaç güç geçtikçe artmaktadır. Bilgi işlem teknolojilerinde öncelik teknik yeterliliğe sahip bireylerin seçimi olmaktadır. Sizde kendinizi bu alanda geliştirerek, rakiplerinize göre bir adım öne geçebilrisiniz.
 
 Konuları sıkmadan , laf kalabalığı yapmadan açık ve net bir şekilde aktarma prensibine sahibim.  Özellikle çok sayıda uygulama ile konuyu kalıcı hale getirmeye çalışmaktayım. Umarım sizde eğitimimden  maksimum faydayı alarak kariyerinizde dilediğiniz noktaya ulaşanlar arasına girersiniz.
 
