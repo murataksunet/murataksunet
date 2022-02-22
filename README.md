@@ -8,8 +8,7 @@
 - 📣**Eğitimlerim:**               
         
         ⌘ Kubernetes: Sıfırdan Başlayarak Uygulamalı Öğrenin (Yolda)
-
-![This is an image](https://kubernetes.io/images/kubernetes-horizontal-color.png)        
+     
                 
         ⌘ Docker: Sıfırdan Tüm Yönleriyle Öğrenin
 
