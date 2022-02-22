@@ -6,15 +6,13 @@
 - 🔔**Hedefim:** Türkçe kaynak eksikliği sebebiyle ihtiyaçları karşılayacak teknik tecrübe paylaşımı yaparak ihtiyaca destek vermek 
 - 🎯**İlgi Alanım:** ├─◈ Big Data ├─◈ Storage Systems ├─◈ Virtualization ├─◈ Kubernernetes ├─◈ Docker ├─◈ IT Trainer
 - 📣**Eğitimlerim:**
-        
-        	📌 :pushpin:
-        
+               
         A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
         
-        A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
-
-
 	📌 :pushpin:
+
+        A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
+
 
 **Maksimum faydayı almanız temennisiyle**
 
