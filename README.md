@@ -9,10 +9,10 @@
 - 😉**Benimle Konuş:** 💻Yeni Teknolojiler 🌍Keşfedilecek Yerler  📸Amatör Fotoğrafçılık  🎥Aksiyon Filmleri
 - 📣**Eğitimlerim:**               
                   
-     ### 🌱🌱🌱🌱Docker: Sıfırdan Tum Yonleriyle Ogrenin
+     ### 🌱Docker: Sıfırdan Tum Yonleriyle Ogrenin
 ![This is an image](http://www.murataksu.net/wp-content/uploads/2020/12/Information-6.png) <p align="center"> ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
-
-        ⌘ A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
+  
+  ### A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
 
 ![This is an image](http://www.murataksu.net/wp-content/pictures/Information-6.png)  <p align="center"> ⭐ [A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)-->İndirim Kuponu](https://www.udemy.com/course/tum-yonleriyle-sanallastirma/?referralCode=117CD3706450AC733546)
 
