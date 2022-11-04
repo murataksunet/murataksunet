@@ -7,12 +7,13 @@
 - 🎯**İlgi Alanım:** ├─◈ Kubernetes ├─◈ Docker ├─◈ Cloud Computing ├─◈ Virtualization ├─◈ DevOps ├─◈ IT Trainer
 - 💊**Eğlenceli Gerçek:** Başlangıçta görülmeyen, öngörülebilir, mantıklı bir model çıkarsanda sonunda yoksun
 - 😉**Benimle Konuş:** 💻Yeni Teknolojiler 🌍Keşfedilecek Yerler  📸Amatör Fotoğrafçılık  🎥Aksiyon Filmleri
-- 📣**Eğitimlerim:**               
+- 📣**Eğitimlerim:**    
+
+![This is an image](http://murataksu.net/wp-content/assets/images/about/logo.png) <p align="center"> ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)          
                   
 ![This is an image](http://murataksu.net/wp-content/assets/images/about/logo1.png) <p align="center"> ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
   
-
-![This is an image](http://www.murataksu.net/wp-content/pictures/Information-6.png)  <p align="center"> ⭐ [A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)-->İndirim Kuponu](https://www.udemy.com/course/tum-yonleriyle-sanallastirma/?referralCode=117CD3706450AC733546)
+![This is an image](http://www.murataksu.net/wp-content/pictures/logo3.jpg)  <p align="center"> ⭐ [A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)-->İndirim Kuponu](https://www.udemy.com/course/tum-yonleriyle-sanallastirma/?referralCode=117CD3706450AC733546)
 
 - 📣**Yolda Olan Eğitimlerim:**      
 
