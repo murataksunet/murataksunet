@@ -9,7 +9,7 @@
 - 😉**Benimle Konuş:** 💻Yeni Teknolojiler 🌍Keşfedilecek Yerler  📸Amatör Fotoğrafçılık  🎥Aksiyon Filmleri
 - 📣**Eğitimlerim:**    
 
-![This is an image](http://murataksu.net/wp-content/assets/images/about/logo.png) <p align="center"> ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)          
+![This is an image](http://murataksu.net/wp-content/assets/images/about/logo.png) <p align="center"> ⭐ [Kubernetes: Sıfırdan Uygulamalı Ogrenin-->İndirim Kuponu](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)          
                   
 ![This is an image](http://murataksu.net/wp-content/assets/images/about/logo1.png) <p align="center"> ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
   
@@ -17,11 +17,11 @@
 
 - 📣**Yolda Olan Eğitimlerim:**      
 
-    ### 🌱Kubernetes: Sıfırdan Başlayarak Uygulamalı Öğrenin (Yolda)
+    ### 🌱Kubernetes: Let's Learn From Scratch - Hands-On
+    ### 🌱DevOps Nedir ?
 
-**Maksimum faydayı almanız temennisiyle**
+⚡Faydalı olması temennisiyle**
 
-💼 any freelance work? email me :)<p>
 💬 Do you have any question ? l will be glad to answer it <p>
 
 
