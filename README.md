@@ -9,7 +9,7 @@
 - 😉**Benimle Konuş:** 💻Yeni Teknolojiler 🌍Keşfedilecek Yerler  📸Amatör Fotoğrafçılık  🎥Aksiyon Filmleri
 - 📣**Eğitimlerim:**    
 
-![This is an image](http://murataksu.net/wp-content/assets/images/about/logo.png) <p align="center"> ⭐ [YOLDA](https://www.murataksu.net)          
+![This is an image](http://murataksu.net/wp-content/assets/images/about/logo.png) <p align="center"> ⭐ [YOLDA](http://www.murataksu.net)          
                   
 ![This is an image](http://murataksu.net/wp-content/assets/images/about/logo1.png) <p align="center"> ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
   
