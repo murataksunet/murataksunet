@@ -9,9 +9,9 @@
 - 😉**Benimle Konuş:** 💻Yeni Teknolojiler 🌍Keşfedilecek Yerler  📸Amatör Fotoğrafçılık  🎥Aksiyon Filmleri
 - 📣**Eğitimlerim:**    
 
-    ### 🌱Kubernetes: Sıfırdan Uygulamalı Ogrenin
-    ### 🌱Docker: Sıfırdan Tum Yonleriyle Ogrenin
-    ### 🌱A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
+    ** 🌱Kubernetes: Sıfırdan Uygulamalı Ogrenin
+    ** 🌱Docker: Sıfırdan Tum Yonleriyle Ogrenin
+    ** 🌱A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
     
 ⚡Faydalı olması temennisiyle**
 
