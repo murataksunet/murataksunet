@@ -9,17 +9,10 @@
 - 😉**Benimle Konuş:** 💻Yeni Teknolojiler 🌍Keşfedilecek Yerler  📸Amatör Fotoğrafçılık  🎥Aksiyon Filmleri
 - 📣**Eğitimlerim:**    
 
-![This is an image](http://murataksu.net/wp-content/assets/images/about/logo.png) <p align="center"> ⭐ [YOLDA](http://www.murataksu.net)          
-                  
-![This is an image](http://murataksu.net/wp-content/assets/images/about/logo1.png) <p align="center"> ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
-  
-![This is an image](http://murataksu.net/wp-content/assets/images/about/logo3.png)  <p align="center"> ⭐ [A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)-->İndirim Kuponu](https://www.udemy.com/course/tum-yonleriyle-sanallastirma/?referralCode=117CD3706450AC733546)
-
-- 📣**Yolda Olan Eğitimlerim:**      
-
-    ### 🌱Kubernetes: Let's Learn From Scratch - Hands-On
-    ### 🌱DevOps Nedir ?
-
+    ### 🌱Kubernetes: Sıfırdan Uygulamalı Ogrenin
+    ### 🌱Docker: Sıfırdan Tum Yonleriyle Ogrenin
+    ### 🌱A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
+    
 ⚡Faydalı olması temennisiyle**
 
 💬 Do you have any question ? l will be glad to answer it <p>
