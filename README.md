@@ -15,13 +15,15 @@
 <p>
       ⭐ İndirim Kuponu --> Yolda
 </p>
-    - 🌱**Docker: Sıfırdan Tum Yonleriyle Ogrenin**  
+
+   - 🌱**Docker: Sıfırdan Tum Yonleriyle Ogrenin**  
 <p align="left">
   <img src="http://murataksu.net/wp-content/assets/images/about/logos2.png">
 <p>
       ⭐ İndirim Kuponu --> https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780
 </p>
-    - 🌱**A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)**  
+    
+   - 🌱**A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)**  
 <p align="left">
   <img src="http://murataksu.net/wp-content/assets/images/about/logos3.png">
 <p>
