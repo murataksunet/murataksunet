@@ -31,7 +31,7 @@
     
 ⚡Faydalı olması temennisiyle**
 
-💬 Do you have any question ? l will be glad to answer it <p>
+💬 Soru ve talepleriniz için bana ulaşabilirsiniz. <p>
 
 
 <!--
