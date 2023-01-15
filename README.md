@@ -12,7 +12,7 @@
     - 🌱 **Kubernetes: Sıfırdan Uygulamalı Ogrenin
     - 🌱 **Docker: Sıfırdan Tum Yonleriyle Ogrenin
     <img align="left" src="http://murataksu.net/wp-content/assets/images/about/logos1.png">
-    ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
+    ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu](https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780) </p>
     
 
     
