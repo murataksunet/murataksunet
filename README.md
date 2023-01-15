@@ -25,7 +25,7 @@
 <p align="left">
   <img src="http://murataksu.net/wp-content/assets/images/about/logos3.png">
 <p>
-      ⭐ İndirim Kuponu --> https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780
+      ⭐ İndirim Kuponu --> https://www.udemy.com/course/tum-yonleriyle-sanallastirma/?referralCode=117CD3706450AC733546
 </p>
 
     
