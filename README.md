@@ -10,10 +10,10 @@
 - 📣**Eğitimlerim:**    
 
     - 🌱 **Kubernetes: Sıfırdan Uygulamalı Ogrenin
-    - <img align="left" width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png">
+  <img align="left" width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png">
     
     - 🌱 **Docker: Sıfırdan Tum Yonleriyle Ogrenin
-    <img align="left" src="http://murataksu.net/wp-content/assets/images/about/logos1.png">
+   <img align="left" src="http://murataksu.net/wp-content/assets/images/about/logos1.png">
     ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu]
     (https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
     
