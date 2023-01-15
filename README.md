@@ -15,19 +15,19 @@
 <p>
       ⭐ İndirim Kuponu --> https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780
 </p>
+    - 🌱**Docker: Sıfırdan Tum Yonleriyle Ogrenin**  
+<p align="left">
+  <img src="http://murataksu.net/wp-content/assets/images/about/logos2.png">
+<p>
+      ⭐ İndirim Kuponu --> https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780
+</p>
+    - 🌱**A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)**  
+<p align="left">
+  <img src="http://murataksu.net/wp-content/assets/images/about/logos3.png">
+<p>
+      ⭐ İndirim Kuponu --> https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780
+</p>
 
-    
-    
-    
-  <img align="left" width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png">
-    
-    - 🌱 **Docker: Sıfırdan Tum Yonleriyle Ogrenin
-
-
-    
-
-    
-    - 🌱 **A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
     
 ⚡Faydalı olması temennisiyle**
 
