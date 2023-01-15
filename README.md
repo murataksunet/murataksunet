@@ -15,7 +15,7 @@
     ⭐ [Docker: Sıfırdan Tum Yonleriyle Ogrenin-->İndirim Kuponu]
     (https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780)
     
-
+<img align="left" width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png">
     
     - 🌱 **A'dan Z'ye Sanallaştırma (ESXi, Hyper-V, KVM, Cloud)
     
