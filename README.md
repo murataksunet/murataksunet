@@ -13,7 +13,7 @@
 <p align="left">
   <img src="http://murataksu.net/wp-content/assets/images/about/logos1.png">
 <p>
-      ⭐ İndirim Kuponu --> https://www.udemy.com/course/docker-tum-yonleriyle-ogrenin/?referralCode=9C599B7C4E1469E76780
+      ⭐ İndirim Kuponu --> Yolda
 </p>
     - 🌱**Docker: Sıfırdan Tum Yonleriyle Ogrenin**  
 <p align="left">
