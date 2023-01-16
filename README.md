@@ -13,7 +13,7 @@
 <p align="left">
   <img src="http://murataksu.net/wp-content/assets/images/about/logos1.png">
 <p>
-      ⭐ İndirim Kuponu --> Yolda
+      ⭐ İndirim Kuponu --> https://www.udemy.com/course/kubernetes-uygulamali-ogrenin/?referralCode=4A6BAEB23A3F0D98B3D2
 </p>
 
    - 🌱**Docker: Sıfırdan Tum Yonleriyle Ogrenin**  
